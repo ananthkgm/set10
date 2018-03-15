@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-	int i,n,k,array[50],temp;
+	int i,n,k,array[40],temp;
 	scanf("%d %d",&n,&k);
 	for(i=0;i<n;i++)
 	{
